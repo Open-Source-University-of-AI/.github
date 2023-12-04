@@ -1,4 +1,8 @@
 # Hi there 👋
+<h1 align='center'>OPEN SOURCE UNIVERSITY OF AI</h1>
+<h5 align='center'>INNOVATION IN OPEN SOURCE AI</h5>
+
+---
 
 Welcome to the Open Source University of AI!
 
