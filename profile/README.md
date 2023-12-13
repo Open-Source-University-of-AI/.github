@@ -7,6 +7,11 @@
 Welcome to the Open Source University of AI!
 ---
 
+
+[School of Data Science](https://github.com/Open-Source-University-of-AI/OSUAI-School-Of-DataScience) 
+
+I'm currently working on implementing Open Innovation at OSUAI and simultaneously also in establishing in School of Data Science 
+
 🙋‍♀️ **About us:**
 
 We are a community-driven organization dedicated to fostering learning and collaboration in the field of Artificial Intelligence. Our mission is to provide accessible resources and support for students and enthusiasts interested in AI.
@@ -37,7 +42,7 @@ In this magical world of AI, let's be respectful and supportive of each other. T
 
 ---
 
-[School of Data Science](https://github.com/Open-Source-University-of-AI/OSUAI-School-Of-DataScience) 
+
 ```
 Remember: This is not expert's recommended resources, this repository is under construction, having said that we have compiled some awesome resources for learning 
 ```
