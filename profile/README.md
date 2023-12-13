@@ -37,4 +37,8 @@ In this magical world of AI, let's be respectful and supportive of each other. T
 
 ---
 
+[School of Data Science](https://github.com/Open-Source-University-of-AI/OSUAI-School-Of-DataScience) 
+```
+Remember: This is not expert's recommended resources, this repository is under construction, having said that we have compiled some awesome resources for learning 
+```
 Happy coding! 🚀✨
